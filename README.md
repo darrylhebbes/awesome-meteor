@@ -26,7 +26,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
     - [Front End Frameworks](#front-end-frameworks)
     - [Alternative Databases](#alternative-databases)
     - [Package managers](#package-managers)
-    - [Internationalization](#internationalization)
+    - [Internationalization - i18n](#internationalization)
     - [Scaffolding](#scaffolding)
     - [Tooling](#tooling)
 - [Resources](#resources)
@@ -183,6 +183,11 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [meteorhacks:npm](https://github.com/meteorhacks/npm/) - Use Npm Modules with Your Meteor App.
 * [cosmos:browserify](https://github.com/elidoran/cosmos-browserify) - Browserify npm modules for client side in Meteor packages.
+
+## Internationalization
+
+* [Universe i18n](https://github.com/vazco/meteor-universe-i18n/) - Lightweight i18n, YAML & JSON translation files, React component
+* [TAPevents tap-i18n](https://github.com/TAPevents/tap-i18n/) - translation
 
 ## Scaffolding
 
